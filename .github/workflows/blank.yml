@@ -31,3 +31,4 @@ jobs:
       run: |
         which node
         which npm
+        which yarn
